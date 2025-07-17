@@ -77,13 +77,14 @@ Welcome to my GitHub profile! I'm a passionate Software Development student with
 
 ---
 
-### 🏋️ **TheGym CMS**
-> Web-based gym contract and membership management system.
+### 📝 **Contractly - Contract Monthly Claim System (CMCS)**
+> Web-based software to manage and process monthly claims linked to contracts.
 
-**Stack:** PHP, MySQL, JavaScript, HTML/CSS  
+**Stack:** .NET Core, C#, SQL Server, JavaScript, HTML/CSS  
 - Admin and client dashboards  
-- Membership claims & event scheduling  
-- Clean responsive interface  
+- Monthly claim generation with approval workflows
+- Payment tracking with audit trail and admin notifications
+- Clean, standards-based architecture with unit tests
 
 ---
 
