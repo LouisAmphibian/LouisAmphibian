@@ -97,14 +97,12 @@ Welcome to my GitHub profile! I'm a passionate Software Development student with
 
 ## 📬 Contact Me
 
-- 📧 Email: [ayandamantshinga@gmail.com](mailto:ayandamantshinga@gmail.com)  
-- 💼 LinkedIn: [Ayanda Mantshinga](https://www.linkedin.com/in/ayanda-mantshinga) *(Update link if needed)*  
+- 💼 LinkedIn: [Ayanda Mantshinga](https://www.linkedin.com/in/mrmantshinga/) 
 
 ---
 
 ## 🎯 Goals for 2025
-
-- 🔹 Master full-stack development with .NET Core + React  
+ 
 - 🔹 Build and launch a cross-platform mobile app  
 - 🔹 Contribute to impactful open-source projects  
 - 🔹 Complete a personal portfolio site  
