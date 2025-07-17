@@ -54,40 +54,6 @@ Welcome to my GitHub profile! I'm a passionate Software Development student with
 
 ---
 
-## 🚀 Featured Projects
-
-### 💸 **MoneyWays (Android Finance App)**
-> Manage expenses and track your financial health.
-
-**Stack:** Kotlin, RoomDB, Android Studio  
-- Secure login and registration  
-- Add, view, and manage transactions  
-- Clean UI and responsive layout  
-- Forgot password flow  
-
----
-
-### 🏧 **ATM Interface (Java Swing GUI)**
-> A desktop-based ATM simulation system.
-
-**Stack:** Java, Swing  
-- Withdraw, deposit, and balance operations  
-- Interactive GUI components  
-- Handles errors and invalid operations gracefully  
-
----
-
-### 📝 **Contractly - Contract Monthly Claim System (CMCS)**
-> Web-based software to manage and process monthly claims linked to contracts.
-
-**Stack:** .NET Core, C#, SQL Server, JavaScript, HTML/CSS  
-- Admin and client dashboards  
-- Monthly claim generation with approval workflows
-- Payment tracking with audit trail and admin notifications
-- Clean, standards-based architecture with unit tests
-
----
-
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LouisAmphibian&show_icons=true&theme=tokyonight)  
