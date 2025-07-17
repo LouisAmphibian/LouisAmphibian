@@ -67,14 +67,6 @@ Welcome to my GitHub profile! I'm a passionate Software Development student with
 
 ---
 
-## 🎯 Goals for 2025
- 
-- 🔹 Build and launch a cross-platform mobile app  
-- 🔹 Contribute to impactful open-source projects  
-- 🔹 Complete a personal portfolio site  
-
----
-
 ## 🧠 Fun Facts
 
 - 🏀 I love basketball and exploring new tech  
