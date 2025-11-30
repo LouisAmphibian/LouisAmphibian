@@ -5,7 +5,7 @@ Welcome! I’m a junior software developer who completed the Diploma in IT: Soft
 
 ## 🔍 About Me
 
-- 🌍 Location: South Africa 🇿🇦  
+- 🌍 Location: Johannesburg, Gauteng, South Africa 🇿🇦  
 - 🎓 Diploma in IT: Software Development @ Rosebank College  
 - 📚 Focused on: Software Engineering, Web & Mobile Development, UI/UX Design  
 - 💼 Open to: Internships, Freelance Projects, Mentorship & Collaboration  
