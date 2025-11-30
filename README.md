@@ -1,7 +1,7 @@
 # Hi there, I'm Ayanda "LouisAmphibian" Mantshinga! 👋
 ---
 
-Welcome! I’m a junior software developer who completed the Diploma in IT: Software Development at Rosebank College this year. I finished my final year with a GPA of 3.78/4.0 and I’m passionate about clean code, problem-solving, and building full-stack projects that make an impact. Always learning, always building.
+Welcome! I’m a junior software developer who completed the Diploma in IT: Software Development at Rosebank College this year (graduating officially in 2026). I finished my final year with a GPA of 3.78/4.0 and I’m passionate about clean code, problem-solving, and building full-stack projects that make an impact. Always learning, always building.
 
 ## 🔍 About Me
 
