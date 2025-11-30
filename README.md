@@ -1,7 +1,6 @@
 # Hi there, I'm Ayanda "LouisAmphibian" Mantshinga! 👋
 
-Welcome to my GitHub profile! I'm a passionate Software Development student with a love for clean code, functional design, and building full-stack solutions that solve real-world problems. Whether it's a desktop app, web platform, or mobile prototype, I'm always excited to learn and create.
-
+Welcome! I’m a junior software developer who completed the Diploma in IT: Software Development at Rosebank College this year. I finished my final year with a GPA of 3.78/4.0 and I’m passionate about clean code, problem-solving, and building full-stack projects that make an impact. Always learning, always building.
 ---
 
 ## 🔍 About Me
