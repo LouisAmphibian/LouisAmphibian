@@ -70,10 +70,9 @@ Welcome! I’m a junior software developer who completed the Diploma in IT: Soft
 
 ## 🧠 Fun Facts
 
-- 🏀 I love basketball and exploring new tech  
-- 🛠️ I enjoy turning challenges into opportunities through code  
-- 💬 Quote I live by: _“Stable code is a treasure; don’t disturb it unless absolutely necessary.”_  
-- 🌐 Languages: English, isiXhosa  
+- 🎮 I enjoy gaming and exploring the latest technology trends.
+- 🛠️ I love turning challenges into opportunities through creative problem-solving and code. 
+- 🌐 Languages: English and isiXhosa  
 
 ---
 
